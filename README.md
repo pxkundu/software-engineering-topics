@@ -1,5 +1,9 @@
 ### My Journey as a Software Engineer: Lessons Learned and Best Practices
 
+### By: [Partha Sarathi Kundu](https://www.linkedin.com/in/partha-sarathi-kundu/recent-activity/articles/)
+
+[SQL Database Configuration, Support, and Troubleshooting](/SQL-config-debug-tips-tricks.md)
+
 Over the years, my journey as a software engineer has been filled with challenges, triumphs, and countless lessons. When I started, I often found myself overwhelmed by the sheer breadth of knowledge needed—design principles, frameworks, database optimization, server configurations, and more. But with time, experience, and a lot of trial and error, I’ve developed a toolkit of practices and principles that have consistently helped me deliver high-quality solutions.
 
 Today, I’m sharing what I’ve learned—not from theory, but from real-world experience. These are the practices I wish I knew earlier and the ones I follow every day to build scalable, maintainable, and impactful software systems.
